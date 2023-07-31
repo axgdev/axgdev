@@ -13,6 +13,7 @@ A bit about me:\
 
 *   🌍  I'm based in United Kingdom
 *   🧠  I'm learning Zig, Rust, Golang
+*   :octocat: This is my old GitHub account. My new account is here: [https://github.com/axgdev](https://github.com/AxelGarciaK) 
 
 ### Skills 
 <p align="left">
