@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 A bit about me:\
-💼 Software Engineer 7+ years of experience.\
+💼 Software Engineer with a decade of experience.\
 ✍️ Writes about Computing History, AI and open source.\
 🎮 Ex-gamer. Favorite games: AoE2, Zelda.\
 🎎 Loves anime/movies\
@@ -13,7 +13,7 @@ A bit about me:\
 
 *   🌍  I'm based in United Kingdom
 *   🧠  I'm learning Zig, Rust, Golang
-*   :octocat: This is my old GitHub account. My new account is here: https://github.com/AxelGarciaK
+*   :octocat: My other GitHub account is here: https://github.com/AxelGarciaK
 
 ### Skills 
 <p align="left">
